@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# marcelo
+# Marcelo
 
 Nome: Marcelo Moreira de Sousa
 Localidade: São Paulo 
